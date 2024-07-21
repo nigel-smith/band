@@ -319,10 +319,10 @@ $(function () {
 $(function () {
     $('.facebook').on('click', function(event) {
       event.preventDefault();
-      window.location.href = "https://facebook.com/";
+      window.location.href = "https://www.facebook.com/profile.php?id=61551556094598";
     });
     $('.instagram').on('click', function(event) {
       event.preventDefault();
-      window.location.href = "https://www.instagram.com/";
+      window.location.href = "https://www.instagram.com/supermegajumbogiants?igsh=MXZyNmQ5bGJhMW56dQ%3D%3D&utm_source=qr";
     });
 })
